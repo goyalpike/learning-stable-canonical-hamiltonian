@@ -1,7 +1,5 @@
 #!/bin/bash
 
-source /scratch/Goyalp/miniconda3/etc/profile.d/conda.sh
-
 conda activate str_koopman_embs
 
 python --version 
